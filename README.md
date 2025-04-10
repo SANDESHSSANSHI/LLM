@@ -241,4 +241,4 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 <h2>🧑‍💻 Author</h2>
 
-<p>Made with 💙 by <a href="https://github.com/Sandesh-S-Sanshi">Sandesh S Sanshi</a></p>
+<p>Made with 💙 by <a href="https://github.com/SANDESHSSANSHI">Sandesh S Sanshi</a></p>
