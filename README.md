@@ -151,7 +151,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 <h2>📁 Project Structure</h2>
 
-<pre><code>InsightPDF/
+<pre><code>Rag-Systems/
 │
 ├── app.py                 → Main Streamlit App
 ├── requirements.txt       → Python dependencies
