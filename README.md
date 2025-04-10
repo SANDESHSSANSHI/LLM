@@ -99,7 +99,7 @@
 <h3>1️⃣ Clone the Repository</h3>
 
 <pre><code class="language-bash">git clone https://github.ibm.com/Sandesh-S-Sanshi/llm-learning.git
-cd InsightPDF
+cd Rag-Systems
 </code></pre>
 
 <h3>2️⃣ Create Virtual Environment (Optional but Recommended)</h3>
