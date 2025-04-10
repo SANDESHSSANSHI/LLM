@@ -198,18 +198,20 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 <hr>
 <h3>Screen Shots : </h3>
 
-![PHOTO-2025-04-10-13-52-29](https://github.ibm.com/Sandesh-S-Sanshi/llm-learning/assets/500278/35b2bd2b-062e-4579-a742-a2d17bf62201)
-<p>Landing Page </p>
+![PHOTO-2025-04-10-13-52-29](https://github.com/user-attachments/assets/fbb3bd38-ded9-490c-9095-1a00334a8a1f)
 
-![PHOTO-2025-04-10-14-00-27](https://github.ibm.com/Sandesh-S-Sanshi/llm-learning/assets/500278/56b537a9-a754-44b9-bcc2-ac19191bbaf0)
+
+<p>Landing Page </p>
+![PHOTO-2025-04-10-14-00-27](https://github.com/user-attachments/assets/82d63768-28b3-4f54-a410-2f77f09d5db7)
 
 <p>About Section</p>
 
-![PHOTO-2025-04-10-14-01-05](https://github.ibm.com/Sandesh-S-Sanshi/llm-learning/assets/500278/991a33df-c582-4a4c-ab12-d955e0540208)
+
+![PHOTO-2025-04-10-14-01-05](https://github.com/user-attachments/assets/48312b55-414d-4655-98a5-ca79d61cece0)
 
 <p>Model Section</p>
 
-![PHOTO-2025-04-10-14-01-14](https://github.ibm.com/Sandesh-S-Sanshi/llm-learning/assets/500278/bafa7198-0c79-4a0e-9398-09c1d99f833d)
+![PHOTO-2025-04-10-14-01-14](https://github.com/user-attachments/assets/bce66577-04b6-4207-8f7b-3ef50330442b)
 
 <p>Query Interface</p>
 
