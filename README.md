@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td>Local LLM</td>
-<td>Ollama (e.g., LLaMA 3)</td>
+<td>Ollama (e.g., LLaMA 3.2)</td>
 </tr>
 <tr>
 <td>Styling</td>
@@ -93,7 +93,7 @@
 <h2>🔧 Installation Guide (Step-by-Step)</h2>
 
 <blockquote>
-<p>🧑‍💻 You'll need <strong>Python 3.9+</strong>, <strong>pip</strong>, and <strong>Git</strong>. The app also uses <a href="https://ollama.com/">Ollama</a> to run a local LLM (like LLaMA 3).</p>
+<p>🧑‍💻 You'll need <strong>Python 3.9+</strong>, <strong>pip</strong>, and <strong>Git</strong>. The app also uses <a href="https://ollama.com/">Ollama</a> to run a local LLM (like LLaMA 3.2).</p>
 </blockquote>
 
 <h3>1️⃣ Clone the Repository</h3>
@@ -117,7 +117,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 <p>Install Ollama and pull the LLaMA model:</p>
 
-<pre><code class="language-bash">ollama pull llama3
+<pre><code class="language-bash">ollama pull llama3.2
 </code></pre>
 
 <p>Make sure your Ollama server is running on:</p>
